@@ -83,6 +83,6 @@ Find out how many flights go from NYC to Paris
     /* later on in the SQL statement, when dealing with the destination, you should do the same for airports AS destination */
   ```
   ## Submission
-- Enter your solutions in solutions.sql
+- Enter your solutions in solutions.sql, including the queries you wrote.
 - Submit a pull request once complete
   
