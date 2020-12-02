@@ -1,4 +1,4 @@
-# Postgres Challenge
+# Flights DB
 
 ## Objective
 Create a flights database in postgres, insert some seed data and write queries to answer questions about the data.
