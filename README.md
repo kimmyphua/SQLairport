@@ -1,9 +1,12 @@
 # Flights DB
 
+
 ## Objective
 Create a flights database in postgres, insert some seed data and write queries to answer questions about the data.
 
 ## Setup
+
+0. Fork and clone the repo
 
 1. Create a new database called `flights`, connect to it, and run the following code:
 
@@ -79,3 +82,7 @@ Find out how many flights go from NYC to Paris
     SELECT * FROM airports AS origin WHERE origin.city = 'New York';
     /* later on in the SQL statement, when dealing with the destination, you should do the same for airports AS destination */
   ```
+  ## Submission
+- Enter your solutions in solutions.sql
+- Submit a pull request once complete
+  
